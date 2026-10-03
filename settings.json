@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "OneBlock-SrkK.aternos.me:52373",
+    "port": 52373,
     "version": "",
     "try-creative": false
   },
